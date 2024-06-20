@@ -49,7 +49,7 @@
     "tar-fs": "^2.1.1"
   },
   "devDependencies": {
-    "aws-sdk": "^2.1095.0",
+    "aws-sdk": "^2.1630.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-for-publish": "~1.0.2",
     "combyne": "~0.8.1",
