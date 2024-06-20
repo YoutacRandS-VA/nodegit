@@ -45,7 +45,7 @@
     "json5": "^2.1.0",
     "lodash": "^4.17.14",
     "node-gyp": "^9.3.0",
-    "ramda": "^0.25.0",
+    "ramda": "^0.30.0",
     "tar-fs": "^2.1.1"
   },
   "devDependencies": {
